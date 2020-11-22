@@ -12,5 +12,8 @@ I'm a 18 year old student and ametuer software developer. I am currently working
 - Python
 - Java
 
+**Currently Learning**
+Improving my machine learning skills and understanding from the [Fast AI Course](https://fast.ai)
+
 **Contact Info**
-You can best reach me via my Discord at washedDeveloper#6412 or via Twitter [@washedDeveloper][https://twitter.com/washeddeveloper].
+You can best reach me via my Discord at washedDeveloper#6412 or via Twitter [@washedDeveloper](https://twitter.com/washeddeveloper).
