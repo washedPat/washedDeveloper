@@ -12,7 +12,5 @@ I'm a 18 year old student and ametuer software developer. I am currently working
 - Python
 - Java
 
----
-
 **Contact Info**
 You can best reach me via my Discord at washedDeveloper#6412 or via Twitter [@washedDeveloper][https://twitter.com/washeddeveloper].
