@@ -1,4 +1,4 @@
-#Hi
+# Hi
 
 I'm a 18 year old student and ametuer software developer. I am currently working on [@ScorchRobotics](https://twitter.com/ScorchRobotics). I am very interested in software engineering, computer science, robotics, machine learning, and reverse engineering.
 
