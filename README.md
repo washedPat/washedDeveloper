@@ -1,19 +1,5 @@
-# Hi
+# Hello
 
-I'm a 18 year old student and ametuer software developer. I am currently working on [@ScorchRobotics](https://twitter.com/ScorchRobotics). I am very interested in software engineering, computer science, robotics, machine learning, and reverse engineering.
+My name is Patrick Brophy and I am a full time student studying computer science and I am an amateur software engineer. I like to write about ideas I am thinking about on my [blog](https://blog.patrickbrophy.dev).
 
-**Stuff that I think that I am alright at:**
-
-- Javascript and Typescript
-- React
-- Tailwind CSS
-- Node.JS
-- Golang
-- Python
-- Java
-
-**Currently Learning**
-Improving my machine learning skills and understanding from the [Fast AI Course](https://fast.ai)
-
-**Contact Info**
-You can best reach me via my Discord at washedDeveloper#6412 or via Twitter [@washedDeveloper](https://twitter.com/washeddeveloper).
+More about me can be found on my [personal website](https://patrickbrophy.deb)
